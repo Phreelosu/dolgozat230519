@@ -1,1 +1,22 @@
 /*Rátkay Dániel, Szoft, I-2/N, 2023. 05. 19.*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f2f2f2;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #fff;
+    margin-bottom: 20px;
+}
+table th, table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+table th {
+    background-color: #f5f5f5;
+    font-weight: bold;
+}
